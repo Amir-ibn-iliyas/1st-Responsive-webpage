@@ -156,6 +156,7 @@ html, body {
     
         height: calc(100% - 60px);
         flex-direction: column;
+        flex-wrap: wrap;
     }
     .left{
         width: 100%;
@@ -163,20 +164,20 @@ html, body {
         padding: 4vw 6vw;
     }
     .left h1{
-        font-size: 8vw;
+        font-size: 7vw;
         line-height: 10vw;
     }
     .left p{
-        font-size: 3vw;
-        width:100% ;
-        margin-top: 4vw;
-        margin-bottom: 6vw;
+        font-size: 2vw;
+        width:80% ;
+        margin-top: 1vw;
+        margin-bottom: 1.5vw;
     }
     .content button {
-        font-size: 5vw;
-    padding: 2vw 3vw;
+        font-size: 2vw;
+    padding: 1.1vw 1.2vw;
     border-radius: 6px;
-    font-weight: 600;
+    font-weight: 800;
 
     }
     .right{
