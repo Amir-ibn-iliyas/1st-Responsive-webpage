@@ -169,13 +169,13 @@ html, body {
     }
     .left p{
         font-size: 2vw;
-        width:80% ;
-        margin-top: 1vw;
-        margin-bottom: 1.5vw;
+        width:100% ;
+        margin-top: 1.5vw;
+        margin-bottom: 2vw;
     }
     .content button {
-        font-size: 2vw;
-    padding: 1.1vw 1.2vw;
+        font-size: 3vw;
+    padding: 1.7vw 1.8vw;
     border-radius: 6px;
     font-weight: 800;
 
